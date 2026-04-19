@@ -66,7 +66,7 @@ const HomeDefault = () => {
         </form>
       {/* search bar ends here */}
 
-      {recentCities && 
+      {recentCities.length!==0 && 
       
       <div className="flex gap-2 items-center justify-center flex-col md:flex-row">
         <h1 className="text-lg">Recent:</h1>
