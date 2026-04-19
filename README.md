@@ -1,4 +1,4 @@
-# 🌦️ Weather App (React + Context API)
+# 🌦️ Weather Check App (React + Context API)
 
 ## 🔗 Live Link
 👉 https://your-deployed-link.vercel.app/
