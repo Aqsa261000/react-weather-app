@@ -1,7 +1,7 @@
 # Weather Check App (React + Context API)
 
 ## 🔗 Live Link
-👉 https://your-deployed-link.vercel.app/
+👉 https://weather-check-app-vert-seven.vercel.app
 
 ## ✨ Features
 - 🔍 Search weather by city name  
