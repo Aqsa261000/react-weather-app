@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div className='text-white font-bold h-12 flex items-center justify-center text-xl'>Weather Check</div>
+    <div className='text-white font-bold h-12 flex items-center justify-center text-xl gap-2'><img src="../../../../public/favicon.png" alt="nav-icon" className='w-10 h-10' />Weather Check</div>
   )
 }
 
